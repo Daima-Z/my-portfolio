@@ -282,6 +282,9 @@ footer {
 
 
 @media screen and (max-width:992px) {
+	.homeSection .texts-here {
+    top: 112px;
+	}
 hr{
 display: block !important;
 }
